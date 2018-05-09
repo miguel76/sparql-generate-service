@@ -1,0 +1,1 @@
+web: java -cp target/classes:target/dependency/* com.github.miguel76.sparql.generate.api.heroku.Main
